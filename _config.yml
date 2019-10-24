@@ -10,7 +10,7 @@
 app:
   name: GitBuddy
   ios_id: 1483097611
-  android_id: # Optional - Enter Android app id like: com.example.app
+  android_id: com.applitom.gitbuddy
 
   icon: # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
